@@ -17,7 +17,7 @@ void draw () {
   pointViewController.draw(x);
   
   
-  x = (int)random(0,20);
+  x = (int)random(1,20);
 //  if(x < 500){ x += random(0,3);}
 //  else { x = 0;}
 }
